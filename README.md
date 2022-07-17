@@ -1,4 +1,4 @@
-# React Github Search
+# Github Search
  Training project in React
 # Stack 2022:
 * TypeScript
